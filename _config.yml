@@ -3,7 +3,6 @@ title: Cathedral Peak Catchments Monitor
 author: Michele Toucher
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-Updated rainfall and streamflow data from the Cathedral Peak research catchments.
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
